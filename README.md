@@ -1,2 +1,2 @@
 # Wait-For-Attention
-Interpretebility long cot output mechanism
+Interpretability long cot output mechanism
